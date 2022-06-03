@@ -6,8 +6,8 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Chào cậu:333',
-    title: 'Đừng giận kaô nựa nhaa:33',
-    desc: 'Đừng giận kaô nựa nhaa:33',
+    title: 'Đừng giận kaoo nựa nhaa:33',
+    desc: 'Đừng giận kaoo nựa nhaa:33',
     btnYes: 'Okee <33',
     btnNo: 'Không nha :3',
     question: 'Màiii thíchhh kaoo hong <3',
